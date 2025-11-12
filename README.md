@@ -1,2 +1,18 @@
-# 10Academy-week0-solar-challenge
-Solar data analysis for Benin, Sierra Leone, and Togo - 10 Academy Week 0 Challenge
+# \# Solar Challenge Week 0
+
+# 
+
+# \## Project Setup Complete.
+
+# 
+
+# \### How to reproduce this environment:
+
+# 
+
+# 1\. Clone this repository:
+
+# &nbsp;  ```bash
+
+# &nbsp;  git clone https://github.com/mycodebook123/solar-challenge-week0.git
+
