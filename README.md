@@ -10,9 +10,14 @@ Complete solar data analysis for Benin, Sierra Leone, and Togo to identify optim
 
 ## Project Structure
 - `notebooks/benin_analysis.ipynb` - Complete EDA and statistical analysis
-- `data/` - Cleaned solar datasets for all three countries
+- `data/` - Compressed cleaned datasets (ZIP format due to GitHub file size limits)
 - `screenshots/` - Analysis visualizations and results
 - `.github/workflows/ci.yml` - CI/CD pipeline
+
+## Data Notes
+- Cleaned datasets are provided as compressed ZIP files due to GitHub's 25MB file size limits
+- Each ZIP file contains the corresponding cleaned CSV data for analysis
+- Extract the files to reproduce the complete analysis
 
 ## How to Reproduce
 ```bash
