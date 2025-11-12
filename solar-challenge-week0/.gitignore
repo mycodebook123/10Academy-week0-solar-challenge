@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+.venv/
+
+# Data files - CRITICAL: we don't want to commit large CSV files
+data/
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# IDE
+.vscode/
+.DS_Store
